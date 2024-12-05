@@ -1,9 +1,9 @@
 {
-	"name": "beepbox",
-	"version": "4.2.1",
-	"author": "John Nesky",
+	"name": "axibox",
+	"version": "0.0.0.0.0.0.0.0.0.0",
+	"author": "axichord_",
 	"homepage": "https://www.beepbox.co",
-	"description": "BeepBox is an online tool for sketching and sharing instrumental music.",
+	"description": "axibox is",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
